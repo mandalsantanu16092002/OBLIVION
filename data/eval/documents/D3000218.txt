@@ -1,0 +1,8 @@
+DRIVING LICENCE - TRANSPORT DEPT (fictional)
+SYNTHETIC SPECIMEN - NOT A VALID DOCUMENT
+DL No. SY-02484126774
+Name: Rahul Nath Pillai
+DOB: 23/06/1959
+Valid Till: 05/11/2028
+Address: House No. 334, Lotus Residency, Temple Street, Kochi, Kerala PIN 682060
+Hackathon synthetic data - fictional person and issuer - for software testing only

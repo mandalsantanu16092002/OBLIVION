@@ -1,0 +1,43 @@
+{
+  "name": "onboardiq",
+  "version": "1.0.0",
+  "private": true,
+  "description": "OnboardIQ - Intelligent KYC onboarding, document verification and watchlist screening with maker-checker (Deccan Digital Bank, fictional)",
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ],
+  "packageManager": "npm@10.9.2",
+  "engines": {
+    "node": ">=20.10"
+  },
+  "scripts": {
+    "dev": "turbo run dev --parallel",
+    "build": "turbo run build",
+    "typecheck": "turbo run typecheck",
+    "test": "turbo run test",
+    "db:migrate": "npm run db:migrate -w @onboardiq/api",
+    "db:seed": "npm run db:seed -w @onboardiq/api",
+    "db:reset": "npm run db:reset -w @onboardiq/api",
+    "seed:eval": "npm run seed:eval -w @onboardiq/api",
+    "batch": "npm run batch -w @onboardiq/api --",
+    "batch:sample": "npm run batch:sample -w @onboardiq/api",
+    "batch:eval": "npm run batch:eval -w @onboardiq/api",
+    "batch:ai": "npm run batch:ai -w @onboardiq/api",
+    "verify:sample": "npm run verify:sample -w @onboardiq/api",
+    "dev:api": "npm run dev -w @onboardiq/api",
+    "dev:web": "npm run dev -w @onboardiq/web",
+    "dev:ai": "npm run dev -w @onboardiq/ai-service",
+    "test:rules": "npm test -w @onboardiq/rules-engine",
+    "test:api": "npm test -w @onboardiq/api",
+    "test:ai": "npm test -w @onboardiq/ai-service",
+    "ai:train": "npm run train -w @onboardiq/ai-service",
+    "ai:extract": "npm run extract:eval -w @onboardiq/ai-service",
+    "ai:evaluate": "npm run evaluate -w @onboardiq/ai-service",
+    "outputs": "npm run batch:eval && npm run ai:extract && npm run batch:ai && npm run ai:evaluate"
+  },
+  "devDependencies": {
+    "turbo": "^2.3.3",
+    "typescript": "^5.7.2"
+  }
+}

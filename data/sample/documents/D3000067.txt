@@ -1,0 +1,8 @@
+DRIVING LICENCE - TRANSPORT DEPT (fictional)
+SYNTHETIC SPECIMEN - NOT A VALID DOCUMENT
+DL No. SY-02835999866
+Name:  Rohit Nair
+DOB: 02/10/2001
+Valid Till: 03/05/2036
+Address:  House No. 320, Ganga Enclave, Hill Road, Kochi, Kerala PIN 682049
+Hackathon synthetic data - fictional person and issuer - for software testing only

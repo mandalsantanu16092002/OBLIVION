@@ -1,0 +1,12 @@
+INCOME TAX IDENTITY CARD (SYNTHETIC SPECIMEN)
+SYNTHETIC SPECIMEN - NOT A VALID DOCUMENT
+Permanent Account Number
+ZZNPR2595A
+Name
+TANVI REDDY
+Father's Name
+KARTHIK REDDY
+Date of Birth
+09/03/1991
+Signature
+Hackathon synthetic data - fictional person and issuer - for software testing only

@@ -1,0 +1,12 @@
+INCOME TAX IDENTITY CARD (SYNTHETIC SPECIMEN)
+SYNTHETIC SPECIMEN - NOT A VALID DOCUMENT
+Permanent Account Number
+ZZUPG1406E
+Name
+ROHIT LAL GUPTA
+Father's Name
+ANIL GUPTA
+Date of Birth
+11/07/1986
+Signature
+Hackathon synthetic data - fictional person and issuer - for software testing only

@@ -1,0 +1,9 @@
+AADHAAR - RESIDENT IDENTITY (SYNTHETIC SPECIMEN)
+SYNTHETIC SPECIMEN - NOT A VALID DOCUMENT
+Farhan Kulkarni
+DOB: 21/05/1987
+FEMALE
+Address: Flat 313, Sai Krupa Apartments, Station Road, Kolkata,
+ West Bengal - 700013
+XXXX XXXX 3306
+Hackathon synthetic data - fictional person and issuer - for software testing only

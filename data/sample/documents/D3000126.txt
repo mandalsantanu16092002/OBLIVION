@@ -1,0 +1,12 @@
+INCOME TAX IDENTITY CARD (SYNTHETIC SPECIMEN)
+SYNTHETIC SPECIMEN - NOT A VALID DOCUMENT
+Permanent Account Number
+ZZVPG7604C
+Name
+NIKHIL GUPTA
+Father's Name
+KARTHIK GUPTA
+Date of Birth
+14/05/1990
+Signature
+Hackathon synthetic data - fictional person and issuer - for software testing only

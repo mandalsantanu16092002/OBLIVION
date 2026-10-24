@@ -1,0 +1,12 @@
+INCOME TAX IDENTITY CARD (SYNTHETIC SPECIMEN)
+SYNTHETIC SPECIMEN - NOT A VALID DOCUMENT
+Permanent Account Number
+ZZCPP6145P
+Name
+ANIL KUMAR PATEL
+ Father's Name
+MANOJ PATEL
+Date of Birth
+24/08/1983
+Signature
+Hackathon synthetic data - fictional person and issuer - for software testing only

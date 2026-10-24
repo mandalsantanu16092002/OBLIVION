@@ -1,0 +1,9 @@
+AADHAAR - RESIDENT IDENTITY (SYNTHETIC SPECIMEN)
+SYNTHETIC SPECIMEN - NOT A VALID DOCUMENT
+Karthik Iyer
+DOB:  06/03/1997
+MALE
+Address: Door No. 204, Sai Krupa Apartments, MG Road, Kolkata,
+West Bengal - 700053
+XXXX XXXX 6377
+Hackathon synthetic data - fictional person and issuer - for software testing only

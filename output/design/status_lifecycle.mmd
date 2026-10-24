@@ -1,0 +1,19 @@
+stateDiagram-v2
+    [*] --> SUBMITTED: applicant submits form + >=3 documents
+    SUBMITTED --> EXTRACTING: extraction service + rules engine
+    EXTRACTING --> AUTO_APPROVED: APPROVE and risk LOW/MEDIUM
+    EXTRACTING --> PENDING_CHECKER: APPROVE and risk HIGH
+    EXTRACTING --> IN_REVIEW: REVIEW (R1-R3, R11-R17)
+    EXTRACTING --> AUTO_REJECTED: REJECT (R4-R10)
+    IN_REVIEW --> PENDING_CHECKER: maker recommends APPROVE / REJECT
+    IN_REVIEW --> RESUBMISSION_REQUESTED: maker requests new documents
+    RESUBMISSION_REQUESTED --> SUBMITTED: applicant re-uploads (within 7 days)
+    RESUBMISSION_REQUESTED --> CLOSED_EXPIRED: no resubmission in 7 days
+    PENDING_CHECKER --> APPROVED: checker (different user) approves
+    PENDING_CHECKER --> REJECTED: checker rejects
+    PENDING_CHECKER --> IN_REVIEW: checker sends back
+    AUTO_APPROVED --> [*]: account opened (mock core banking)
+    APPROVED --> [*]: account opened (mock core banking)
+    AUTO_REJECTED --> [*]
+    REJECTED --> [*]
+    CLOSED_EXPIRED --> [*]

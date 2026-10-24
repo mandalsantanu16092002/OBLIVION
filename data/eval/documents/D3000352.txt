@@ -1,0 +1,12 @@
+SAHYADRI POWER DISTRIBUTION LTD (fictional)
+Electricity Bill - Synthetic Specimen
+SYNTHETIC SPECIMEN - NOT A VALID DOCUMENT
+Consumer No.: EB179257002
+Consumer Name: Pooja Devi Menon
+Bill Date: 30-Jan-2026
+Billing Period: 30 days
+Units Consumed: 214 kWh
+Amount Due: Rs. 1,842.00
+Supply Address: Flat 417, Lotus Residency, Gandhi Nagar, Lucknow, Uttar Pradesh, PIN 226088
+Pay before due date to avoid surcharge. This is a computer-generated bill.
+Hackathon synthetic data - fictional person and issuer - for software testing only

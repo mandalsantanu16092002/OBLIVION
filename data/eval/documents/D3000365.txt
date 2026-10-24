@@ -1,0 +1,12 @@
+INCOME TAX IDENTITY CARD (SYNTHETIC SPECIMEN)
+SYNTHETIC SPECIMEN - NOT A VALID DOCUMENT
+Permanent Account Number
+ZZJPM0965T
+Name
+SANJAY KUMAR MENON
+Father's Name
+RAVI MENON
+Date of Birth
+09/07/1969
+Signature
+Hackathon synthetic data - fictional person and issuer - for software testing only

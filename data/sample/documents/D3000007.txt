@@ -1,0 +1,12 @@
+INCOME TAX IDENTITY CARD (SYNTHETIC SPECIMEN)
+SYNTHETIC SPECIMEN - NOT A VALID DOCUMENT
+Permanent Account Number
+ZZMPN3465S
+Name
+ ARJUN NAIR
+Father's Name
+MOHAN NAIR
+Date of Birth
+02/11/1985
+Signature
+Hackathon synthetic data - fictional person and issuer - for software testing only

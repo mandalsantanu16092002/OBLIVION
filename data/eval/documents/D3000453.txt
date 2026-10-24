@@ -1,0 +1,12 @@
+ INCOME TAX IDENTITY CARD (SYNTHETIC SPECIMEN)
+SYNTHETIC SPECIMEN - NOT A VALID DOCUMENT
+Permanent Account Number
+ZZMPS3857D
+Name
+MANOJ PRASAD SINGH
+Father's Name
+SANJAY SINGH
+Date of Birth
+25/01/1999
+Signature
+Hackathon synthetic data - fictional person and issuer - for software testing only

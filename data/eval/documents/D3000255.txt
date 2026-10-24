@@ -1,0 +1,8 @@
+DRIVING LICENCE - TRANSPORT DEPT (fictional)
+SYNTHETIC SPECIMEN - NOT A VALID DOCUMENT
+DL No. SY-03909545724
+Name: Asha Mehta
+DOB: 11/03/1977
+Valid Till: 27/08/2031
+Address: House No. 344, Palm Grove, Station Road, Kochi, Kerala PIN 682088
+Hackathon synthetic data - fictional person and issuer - for software testing only

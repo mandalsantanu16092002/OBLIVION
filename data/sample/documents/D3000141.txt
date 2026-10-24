@@ -1,0 +1,12 @@
+INCOME TAX IDENTITY CARD (SYNTHETIC SPECIMEN)
+SYNTHETIC SPECIMEN - NOT A VALID DOCUMENT
+Permanent Account Number
+ZZBPP5858T
+Name
+ADITYA PILLAI
+Father's Name
+RAHUL PILLAI
+ Date of Birth
+28/10/1989
+Signature
+Hackathon synthetic data - fictional person and issuer - for software testing only

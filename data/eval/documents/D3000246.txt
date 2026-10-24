@@ -1,0 +1,8 @@
+DRIVING LICENCE - TRANSPORT DEPT (fictional)
+SYNTHETIC SPECIMEN - NOT A VALID DOCUMENT
+DL No. SY-01724356763
+Name: Manoj Mehta
+DOB: 17/05/1992
+Valid Till: 30/09/2035
+Address: Door No. 444, Shanti Niwas, Church Road, Jaipur, Rajasthan PIN 302049
+Hackathon synthetic data - fictional person and issuer - for software testing only

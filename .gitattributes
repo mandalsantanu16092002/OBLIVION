@@ -1,0 +1,3 @@
+# Data-pack documents are hashed (SHA-256) for duplicate detection; keep them byte-identical
+# to the seeded text on every OS, so Windows checkouts must not convert them to CRLF.
+data/** text eol=lf

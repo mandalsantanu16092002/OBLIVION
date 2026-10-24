@@ -1,0 +1,15 @@
+{
+  "name": "@onboardiq/ai-service",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Python FastAPI AI extraction service (wrapped so Turborepo can run it with the rest of the monorepo)",
+  "scripts": {
+    "dev": "node scripts/py.mjs -m uvicorn app.main:app --host 0.0.0.0 --port 8000 --reload",
+    "start": "node scripts/py.mjs -m uvicorn app.main:app --host 0.0.0.0 --port 8000",
+    "test": "node scripts/py.mjs -m pytest",
+    "train": "node scripts/py.mjs scripts/train.py",
+    "extract:eval": "node scripts/py.mjs scripts/extract_batch.py --set eval",
+    "extract:sample": "node scripts/py.mjs scripts/extract_batch.py --set sample",
+    "evaluate": "node scripts/py.mjs scripts/evaluate.py"
+  }
+}

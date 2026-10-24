@@ -1,0 +1,12 @@
+SAHYADRI POWER DISTRIBUTION LTD (fictional)
+Electricity Bill - Synthetic Specimen
+SYNTHETIC SPECIMEN - NOT A VALID DOCUMENT
+Consumer No.: EB271743925
+Consumer Name: Zoya Nair
+Bill Date: 12-Feb-2026
+Billing Period: 30 days
+Units Consumed: 214 kWh
+Amount Due: Rs. 1,842.00
+Supply Address: Flat 407, Sai Krupa Apartments, Gandhi Nagar, Hyderabad, Telangana, PIN 500084
+Pay before due date to avoid surcharge. This is a computer-generated bill.
+Hackathon synthetic data - fictional person and issuer - for software testing only

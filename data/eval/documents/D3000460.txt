@@ -1,0 +1,9 @@
+AADHAAR - RESIDENT IDENTITY (SYNTHETIC SPECIMEN)
+SYNTHETIC SPECIMEN - NOT A VALID DOCUMENT
+Nikhil Singh
+DOB: 20/06/1966
+FEMALE
+Address: Flat 249, Lotus Residency, Station Road, Pune,
+Maharashtra - 411058
+XXXX XXXX 0439
+Hackathon synthetic data - fictional person and issuer - for software testing only

@@ -1,0 +1,12 @@
+INCOME TAX IDENTITY CARD (SYNTHETIC SPECIMEN)
+SYNTHETIC SPECIMEN - NOT A VALID DOCUMENT
+Permanent Account Number
+ ZZDPJ5042D
+Name
+GURPREET CHANDRA JOSHI
+Father's Name
+VIKRAM JOSHI
+Date of Birth
+19/03/2004
+Signature
+Hackathon synthetic data - fictional person and issuer - for software testing only

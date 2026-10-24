@@ -1,0 +1,9 @@
+AADHAAR - RESIDENT IDENTITY (SYNTHETIC SPECIMEN)
+SYNTHETIC SPECIMEN - NOT A VALID DOCUMENT
+Bram Castellan
+DOB: 14/07/1979
+MALE
+Address: Door No. 336, Lotus Residency, MG Road, Chennai, Tamil
+Nadu - 600046
+XXXX XXXX 3959
+Hackathon synthetic data - fictional person and issuer - for software testing only

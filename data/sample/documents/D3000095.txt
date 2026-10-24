@@ -1,0 +1,12 @@
+INCOME TAX IDENTITY CARD (SYNTHETIC SPECIMEN)
+SYNTHETIC SPECIMEN - NOT A VALID DOCUMENT
+Permanent Account Number
+ZZFPS6860B
+Name
+VIKRAM MOHAN SHARMA
+Father's Name
+ROHIT SHARMA
+Date of Birth
+20/09/1989
+Signature
+Hackathon synthetic data - fictional person and issuer - for software testing only

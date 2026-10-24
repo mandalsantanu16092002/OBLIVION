@@ -1,0 +1,15 @@
+KONKAN COAST BANK (fictional)
+Account Statement - Synthetic Specimen
+SYNTHETIC SPECIMEN - NOT A VALID DOCUMENT
+SNEHA REDDY
+Flat 12, Lotus Residency, MG Road, Mumbai, Maharashtra
+PIN:  400001
+Statement Date: 07/02/2026
+ Account: XXXXXX3605
+Date  Description            Amount
+ 01  UPI/GROCERY            -1,240.00
+03  SALARY CREDIT         +48,500.00
+07  ATM WITHDRAWAL         -5,000.00
+12  ELECTRICITY            -1,842.00
+18  UPI/RESTAURANT           -920.00
+Hackathon synthetic data - fictional person and issuer - for software testing only

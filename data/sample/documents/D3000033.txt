@@ -1,0 +1,15 @@
+KONKAN COAST BANK (fictional)
+ Account Statement - Synthetic Specimen
+SYNTHETIC SPECIMEN - NOT A VALID DOCUMENT
+AISHA GUPTA
+Flat 368, Lotus Residency, Market Lane, Bengaluru, Karnataka
+PIN: 560046
+Statement Date: 22/02/2026
+Account: XXXXXX1723
+Date  Description            Amount
+01  UPI/GROCERY            -1,240.00
+03  SALARY CREDIT         +48,500.00
+07  ATM WITHDRAWAL         -5,000.00
+12  ELECTRICITY            -1,842.00
+18  UPI/RESTAURANT           -920.00
+Hackathon synthetic data - fictional person and issuer - for software testing only

@@ -1,0 +1,8 @@
+DRIVING LICENCE - TRANSPORT DEPT (fictional)
+ SYNTHETIC SPECIMEN - NOT A VALID DOCUMENT
+ DL No. SY-03677572674
+Name: Aditya Khan
+DOB: 09/06/1981
+Valid Till: 13/04/2035
+Address: Door No. 125, Sai Krupa Apartments, Market Lane, Kochi, Kerala PIN 682016
+Hackathon synthetic data - fictional person and issuer - for software testing only

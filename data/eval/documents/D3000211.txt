@@ -1,0 +1,9 @@
+AADHAAR - RESIDENT IDENTITY (SYNTHETIC SPECIMEN)
+SYNTHETIC SPECIMEN - NOT A VALID DOCUMENT
+Verma Karthik Nath
+DOB: 06/01/1990
+MALE
+Address: Door No. 345, Lotus Residency, Lake View Road,
+Kolkata, West Bengal - 700052
+XXXX XXXX 3774
+Hackathon synthetic data - fictional person and issuer - for software testing only

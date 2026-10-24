@@ -1,0 +1,9 @@
+AADHAAR - RESIDENT IDENTITY (SYNTHETIC SPECIMEN)
+SYNTHETIC SPECIMEN - NOT A VALID DOCUMENT
+Kavya Sharma
+DOB:  16/09/1988
+FEMALE
+Address: Flat 157, Coral Heights, Station Road, Mumbai,
+Maharashtra - 400095
+XXXX XXXX 4743
+Hackathon synthetic data - fictional person and issuer - for software testing only

@@ -1,0 +1,12 @@
+INCOME TAX IDENTITY CARD (SYNTHETIC SPECIMEN)
+SYNTHETIC SPECIMEN - NOT A VALID DOCUMENT
+Permanent Account Number
+ZZSPR8901X
+Name
+SNEHA REDDY
+Father's Name
+MOHAN REDDY
+Date of Birth
+30/03/1995
+Signature
+Hackathon synthetic data - fictional person and issuer - for software testing only

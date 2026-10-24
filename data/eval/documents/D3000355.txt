@@ -1,0 +1,12 @@
+SAHYADRI POWER DISTRIBUTION LTD (fictional)
+Electricity Bill - Synthetic Specimen
+SYNTHETIC SPECIMEN - NOT A VALID DOCUMENT
+Consumer No.: EB539519010
+Consumer Name: Manoj Menon
+Bill Date: 29-Jan-2026
+Billing Period: 30 days
+Units Consumed: 214 kWh
+Amount Due: Rs. 1,842.00
+Supply Address: Flat 433, Shanti Niwas, Park Street, Mumbai, Maharashtra, PIN 400074
+Pay before due date to avoid surcharge. This is a computer-generated bill.
+Hackathon synthetic data - fictional person and issuer - for software testing only

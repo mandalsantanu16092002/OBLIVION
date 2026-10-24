@@ -1,0 +1,9 @@
+AADHAAR - RESIDENT IDENTITY (SYNTHETIC SPECIMEN)
+SYNTHETIC SPECIMEN - NOT A VALID DOCUMENT
+Ravi Kumar Sharma
+DOB: 15/05/1990
+MALE
+Address: Flat 12, Lotus Residency, MG Road, Mumbai, Maharashtra
+- 400001
+XXXX XXXX 4821
+Hackathon synthetic data - fictional person and issuer - for software testing only

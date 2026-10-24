@@ -1,0 +1,9 @@
+AADHAAR - RESIDENT IDENTITY (SYNTHETIC SPECIMEN)
+SYNTHETIC SPECIMEN - NOT A VALID DOCUMENT
+Anil Patel
+DOB: 23/02/1997
+MALE
+Address: House No. 200, Sunrise Towers, Lake View Road,
+Hyderabad, Telangana - 500075
+XXXX XXXX 1892
+Hackathon synthetic data - fictional person and issuer - for software testing only

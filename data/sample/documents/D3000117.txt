@@ -1,0 +1,12 @@
+ INCOME TAX IDENTITY CARD (SYNTHETIC SPECIMEN)
+SYNTHETIC SPECIMEN - NOT A VALID DOCUMENT
+Permanent Account Number
+ZZICP3330C
+Name
+SANJAY PRASAD PATEL
+Father's Name
+RAHUL PATEL
+Date of Birth
+22/11/1968
+Signature
+Hackathon synthetic data - fictional person and issuer - for software testing only

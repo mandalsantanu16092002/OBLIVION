@@ -1,0 +1,9 @@
+ AADHAAR - RESIDENT IDENTITY (SYNTHETIC SPECIMEN)
+SYNTHETIC SPECIMEN - NOT A VALID DOCUMENT
+Swati Iyer
+DOB: 04/05/1989
+ FEMALE
+Address: Door No. 125, Lotus Residency, Station Road, Jaipur,
+Rajasthan - 302040
+XXXX XXXX 2214
+Hackathon synthetic data - fictional person and issuer - for software testing only

@@ -1,0 +1,12 @@
+INCOME TAX IDENTITY CARD (SYNTHETIC SPECIMEN)
+SYNTHETIC SPECIMEN - NOT A VALID DOCUMENT
+Permanent Account Number
+ZZZPP0245J
+Name
+PRIYA DEVI PILLAI
+Father's Name
+DEEPAK PILLAI
+Date of Birth
+08/05/2001
+Signature
+Hackathon synthetic data - fictional person and issuer - for software testing only

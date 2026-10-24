@@ -1,0 +1,9 @@
+AADHAAR - RESIDENT IDENTITY (SYNTHETIC SPECIMEN)
+SYNTHETIC SPECIMEN - NOT A VALID DOCUMENT
+Swati Kulkarni
+DOB: 26/09/1982
+FEMALE
+Address: House No. 196, Palm Grove, Market Lane, Hyderabad,
+Telangana - 500019
+XXXX XXXX 9655
+Hackathon synthetic data - fictional person and issuer - for software testing only

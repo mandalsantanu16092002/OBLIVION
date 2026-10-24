@@ -1,0 +1,9 @@
+AADHAAR - RESIDENT IDENTITY (SYNTHETIC SPECIMEN)
+SYNTHETIC SPECIMEN - NOT A VALID DOCUMENT
+Manoj Kumar Khan
+DOB: 25/04/1990
+MALE
+Address: Flat 110, Sai Krupa Apartments, Park Street, Mumbai,
+Maharashtra - 400059
+XXXX XXXX 3715
+Hackathon synthetic data - fictional person and issuer - for software testing only

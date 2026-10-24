@@ -1,0 +1,8 @@
+DRIVING LICENCE - TRANSPORT DEPT (fictional)
+SYNTHETIC SPECIMEN - NOT A VALID DOCUMENT
+DL No. SY-01015769794
+Name:  Sneha Chandra Rao
+DOB: 22/10/1984
+Valid Till: 09/06/2031
+Address: Flat 40, Sunrise Towers, Lake View Road, Bhopal, Madhya Pradesh PIN 462062
+Hackathon synthetic data - fictional person and issuer - for software testing only

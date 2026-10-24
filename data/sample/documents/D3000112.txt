@@ -1,0 +1,9 @@
+AADHAAR - RESIDENT IDENTITY (SYNTHETIC SPECIMEN)
+SYNTHETIC SPECIMEN - NOT A VALID DOCUMENT
+Karthik Shaikh
+DOB: 11/11/1999
+MALE
+Address: Door No. 402, Palm Grove, Lake View Road, Kolkata,
+West Bengal - 700054
+XXXX XXXX 0207
+Hackathon synthetic data - fictional person and issuer - for software testing only

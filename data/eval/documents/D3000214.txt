@@ -1,0 +1,9 @@
+AADHAAR - RESIDENT IDENTITY (SYNTHETIC SPECIMEN)
+SYNTHETIC SPECIMEN - NOT A VALID DOCUMENT
+Vikram Menon
+DOB: 02/03/1963
+MALE
+Address: Door No. 29, Ganga Enclave, Temple Street, Ahmedabad,
+ Gujarat - 380093
+XXXX XXXX 9059
+Hackathon synthetic data - fictional person and issuer - for software testing only

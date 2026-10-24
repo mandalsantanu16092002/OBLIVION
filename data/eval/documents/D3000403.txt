@@ -1,0 +1,9 @@
+AADHAAR - RESIDENT IDENTITY (SYNTHETIC SPECIMEN)
+ SYNTHETIC SPECIMEN - NOT A VALID DOCUMENT
+Nisha Reddy
+DOB: 11/05/1990
+FEMALE
+ Address: House No. 259, Sai Krupa Apartments, Nehru Marg,
+Hyderabad, Telangana - 500014
+XXXX XXXX 2537
+Hackathon synthetic data - fictional person and issuer - for software testing only

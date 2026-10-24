@@ -1,0 +1,14 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    { "label": "1. Start PostgreSQL (docker)", "type": "shell", "command": "docker compose up -d db", "problemMatcher": [] },
+    { "label": "2. Migrate + seed database", "type": "shell", "command": "npm run db:reset", "problemMatcher": [] },
+    { "label": "3. Dev: all services (turbo)", "type": "shell", "command": "npm run dev", "isBackground": true, "problemMatcher": [] },
+    { "label": "Dev: API only", "type": "shell", "command": "npm run dev:api", "isBackground": true, "problemMatcher": [] },
+    { "label": "Dev: Web only", "type": "shell", "command": "npm run dev:web", "isBackground": true, "problemMatcher": [] },
+    { "label": "Dev: AI service only", "type": "shell", "command": "npm run dev:ai", "isBackground": true, "problemMatcher": [] },
+    { "label": "Test: everything", "type": "shell", "command": "npm test", "group": "test", "problemMatcher": [] },
+    { "label": "Batch: regenerate /output files", "type": "shell", "command": "npm run outputs", "problemMatcher": [] },
+    { "label": "Docker: full stack", "type": "shell", "command": "docker compose up --build", "isBackground": true, "problemMatcher": [] }
+  ]
+}

@@ -1,0 +1,8 @@
+DRIVING LICENCE - TRANSPORT DEPT (fictional)
+SYNTHETIC SPECIMEN - NOT A VALID DOCUMENT
+DL No. SY-02672166096
+Name: Darius Okonkwo-Lee
+ DOB: 14/07/1979
+Valid Till: 29/10/2036
+Address: Flat 313, Sai Krupa Apartments, Nehru Marg, Chennai, Tamil Nadu PIN 600071
+Hackathon synthetic data - fictional person and issuer - for software testing only

@@ -1,0 +1,16 @@
+"
+SAHYADRI POWER DISTRIBUTION LTD (fictional)
+Electricity Bill - Synthetic Specirnen
+SYNTHETIC SPEC1MEN - N0T A VALID DOCUMENT
+Consumer No.: E8297331136
+Consumer Narne: Rekha Devi Gupta
+Bill Dote: 26-Jan-2026
+. .
+Billing Period: 30 days
+Units Consurned: 214 kWh
+" Amount Due: Rs. 1,842.00
+Supp1y Address: Housc No. 6, Sunrise Towers, MGRoad, M.umbai, Maharashtra, PIN 400024
+~ ~
+Paybefore due date to avoid surcharge. This is a computer-generated bill.
+"
+Hackathon synthetic data - fictional person and issuer - for software testing only

@@ -1,0 +1,12 @@
+INCOME TAX IDENTITY CARD (SYNTHETIC SPECIMEN)
+SYNTHETIC SPECIMEN - NOT A VALID DOCUMENT
+Permanent Account Number
+ZZAPK6790K
+Name
+FATIMA KULKARNI
+Father's Name
+GURPREET KULKARNI
+Date of Birth
+15/09/1992
+Signature
+Hackathon synthetic data - fictional person and issuer - for software testing only

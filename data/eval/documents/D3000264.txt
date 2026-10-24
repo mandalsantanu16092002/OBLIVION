@@ -1,0 +1,8 @@
+DRIVING LICENCE - TRANSPORT DEPT (fictional)
+SYNTHETIC SPECIMEN - NOT A VALID DOCUMENT
+DL No. SY-00654686328
+Name: Ananya Rao
+DOB: 02/05/1983
+Valid Till: 25/02/2034
+Address: Door No. 269, Green Park Society, Park Street, Lucknow, Uttar Pradesh PIN 226012
+Hackathon synthetic data - fictional person and issuer - for software testing only

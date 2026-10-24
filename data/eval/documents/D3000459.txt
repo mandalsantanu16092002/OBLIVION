@@ -1,0 +1,12 @@
+INCOME TAX IDENTITY CARD (SYNTHETIC SPECIMEN)
+SYNTHETIC SPECIMEN - NOT A VALID DOCUMENT
+Permanent Account Number
+ZZWPK2177Q
+Name
+NIKHIL SINGH
+Father's Name
+ARJUN KHAN
+Date of Birth
+20/06/1966
+Signature
+Hackathon synthetic data - fictional person and issuer - for software testing only

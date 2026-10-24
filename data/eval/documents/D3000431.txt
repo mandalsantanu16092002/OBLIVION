@@ -1,0 +1,12 @@
+SAHYADRI POWER DISTRIBUTION LTD (fictional)
+Electricity Bill - Synthetic Specimen
+SYNTHETIC SPECIMEN - NOT A VALID DOCUMENT
+Consumer No.: EB857812421
+Consumer Name: Senna Castellan
+Bill Date: 13-Jan-2026
+Billing Period: 30 days
+Units Consumed: 214 kWh
+Amount Due: Rs. 1,842.00
+Supply Address: Door No. 261, Ganga Enclave, Station Road, Kolkata, West Bengal, PIN 700033
+Pay before due date to avoid surcharge. This is a computer-generated bill.
+Hackathon synthetic data - fictional person and issuer - for software testing only

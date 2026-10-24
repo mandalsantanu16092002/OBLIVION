@@ -1,0 +1,12 @@
+INCOME TAX IDENTITY CARD (SYNTHETIC SPECIMEN)
+SYNTHETIC SPECIMEN - NOT A VALID DOCUMENT
+Permanent Account Number
+ZZFCG5404E
+Name
+SHALINI GUPTA
+Father's Name
+MANOJ GUPTA
+Date of Birth
+21/11/1991
+Signature
+Hackathon synthetic data - fictional person and issuer - for software testing only

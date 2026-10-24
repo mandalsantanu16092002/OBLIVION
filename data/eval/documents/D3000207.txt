@@ -1,0 +1,12 @@
+INCOME TAX IDENTITY CARD (SYNTHETIC SPECIMEN)
+SYNTHETIC SPECIMEN - NOT A VALID DOCUMENT
+Permanent Account Number
+ZZZPS5584P
+Name
+MANOJ LAL SHAIKH
+Father's Name
+DEEPAK SHAIKH
+Date of Birth
+14/10/1998
+Signature
+Hackathon synthetic data - fictional person and issuer - for software testing only

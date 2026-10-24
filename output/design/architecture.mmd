@@ -1,0 +1,31 @@
+flowchart LR
+    subgraph BROWSER["Browser"]
+      W[React web app<br/>Applicant portal<br/>KYC workbench<br/>Checker + dashboard]
+    end
+    subgraph NODEAPI["Node.js API (Express, TypeScript)"]
+      AUTH[JWT auth + role guards]
+      VAL[Zod validation<br/>upload checks + SHA-256]
+      WF[Workflow + maker-checker<br/>row locks / versions]
+      RE[Rules engine R1-R17<br/>packages/rules-engine]
+      EXT[Extraction provider interface<br/>mock or ai]
+      CB[Mock core-banking API<br/>service key]
+      AUD[Append-only audit]
+      BATCH[Batch CLI FR-11]
+    end
+    subgraph PYAI["Python FastAPI AI service"]
+      CLS[Guardrail + keyword + TF-IDF/LR classifier]
+      FX[Regex + OCR-correction extractor<br/>confidence scoring]
+      SUM[Reviewer summary LLM / template]
+    end
+    DB[(PostgreSQL)]
+    FS[(Document storage<br/>outside DB)]
+    W -- /api/v1 + Bearer JWT --> AUTH --> VAL --> WF
+    WF --> EXT -- "X-Service-Key, 10 s timeout" --> CLS
+    WF --> RE
+    WF --> CB
+    WF --> AUD
+    WF --> DB
+    VAL --> FS
+    EXT -. mock rows .-> DB
+    BATCH --> RE
+    EXT --> FX

@@ -1,0 +1,12 @@
+SAHYADRI POWER DISTRIBUTION LTD (fictional)
+Electricity Bill - Synthetic Specimen
+ SYNTHETIC SPECIMEN - NOT A VALID DOCUMENT
+Consumer No.: EB864679727
+Consumer Name: Sneha Devi Gupta
+Bill Date: 20-Feb-2026
+Billing Period: 30 days
+Units Consumed: 214 kWh
+Amount Due: Rs. 1,842.00
+Supply Address: Door No. 257, Coral Heights, Lake View Road, Bengaluru, Karnataka, PIN 560034
+ Pay before due date to avoid surcharge. This is a computer-generated bill.
+Hackathon synthetic data - fictional person and issuer - for software testing only

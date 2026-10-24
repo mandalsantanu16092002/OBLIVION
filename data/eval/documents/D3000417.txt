@@ -1,0 +1,12 @@
+INCOME TAX IDENTITY CARD (SYNTHETIC SPECIMEN)
+SYNTHETIC SPECIMEN - NOT A VALID DOCUMENT
+Permanent Account Number
+ ZZAPS8626O
+Name
+MEERA SINGH
+Father's Name
+IMRAN SINGH
+Date of Birth
+03/11/1991
+Signature
+Hackathon synthetic data - fictional person and issuer - for software testing only

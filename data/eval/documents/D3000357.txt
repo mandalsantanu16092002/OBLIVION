@@ -1,0 +1,9 @@
+ AADHAAR - RESIDENT IDENTITY (SYNTHETIC SPECIMEN)
+SYNTHETIC SPECIMEN - NOT A VALID DOCUMENT
+Manoj Patel
+DOB: 06/02/1958
+FEMALE
+Address: Flat 347, Coral Heights, Lake View Road, Hyderabad,
+Telangana - 500043
+XXXX XXXX 4616
+Hackathon synthetic data - fictional person and issuer - for software testing only

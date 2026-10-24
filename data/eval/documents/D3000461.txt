@@ -1,0 +1,8 @@
+DRIVING LICENCE - TRANSPORT DEPT (fictional)
+SYNTHETIC SPECIMEN - NOT A VALID DOCUMENT
+ DL No. SY-03518869890
+Name: Nikhil Singh
+DOB: 20/06/1966
+Valid Till: 30/04/2034
+Address: Flat 249, Lotus Residency, Station Road, Pune, Maharashtra PIN 411058
+Hackathon synthetic data - fictional person and issuer - for software testing only

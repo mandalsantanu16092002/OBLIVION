@@ -1,0 +1,8 @@
+DRIVING LICENCE - TRANSPORT DEPT (fictional)
+ SYNTHETIC SPECIMEN - NOT A VALID DOCUMENT
+DL No. SY-01301274174
+Name: Karthik Das
+DOB: 16/07/1979
+Valid Till: 23/04/2031
+Address: Door No. 206, Sunrise Towers, Gandhi Nagar, Jaipur, Rajasthan PIN 302018
+Hackathon synthetic data - fictional person and issuer - for software testing only

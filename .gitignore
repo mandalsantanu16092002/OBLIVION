@@ -1,0 +1,13 @@
+node_modules/
+dist/
+.turbo/
+.env
+storage/
+*.log
+__pycache__/
+.pytest_cache/
+.venv/
+venv/
+.DS_Store
+output/decisions_output_sample.csv
+output/extraction_output_sample.csv

@@ -1,0 +1,9 @@
+AADHAAR - RESIDENT IDENTITY (SYNTHETIC SPECIMEN)
+SYNTHETIC SPECIMEN - NOT A VALID DOCUMENT
+Priya Sharma
+DOB: 24/08/1982
+FEMALE
+Address: House No. 122, Sai Krupa Apartments, Nehru Marg,
+Delhi, Delhi - 110036
+XXXX XXXX 2602
+Hackathon synthetic data - fictional person and issuer - for software testing only

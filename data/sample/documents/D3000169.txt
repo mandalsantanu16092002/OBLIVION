@@ -1,0 +1,9 @@
+AADHAAR - RESIDENT IDENTITY (SYNTHETIC SPECIMEN)
+SYNTHETIC SPECIMEN - NOT A VALID DOCUMENT
+Varun Kumar Patel
+DOB: 07/10/1981
+MALE
+Address: House No. 384, Shanti Niwas, Temple Street, Mumbai,
+Maharashtra - 400097
+XXXX XXXX 1283
+Hackathon synthetic data - fictional person and issuer - for software testing only

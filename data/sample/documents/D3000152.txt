@@ -1,0 +1,22 @@
+KONKAN COAST BANK (fictional)
+"
+Account Statement -SynthcticSpecimen
+. .
+SYNTHETIC SPECIMEN - N,OT A VALID DOCUMENT
+. .
+ZOYA MENON Door No. 39, Green Park Soc.iety, Church Road, Kochi, Kerala
+PIN: 682065
+Statement Date: 06/01/2026
+Account: XXXXXX3418
+Date  Description            Amount
+~ ~
+01  UPI/GROCERY            -1,240.0O
+~ ~
+03  SALARY CREDIT         +48,500.00
+07  ATM WITHDRAWAL         -5,000.00
+"
+12  ELECTRICITY           -l,842.00
+. .
+18  UPI/RESTAURANT           -920.0O
+"
+Hackathon synthetic data - fictional person and issuer - for software testing only

@@ -1,0 +1,12 @@
+INCOME TAX IDENTITY CARD (SYNTHETIC SPECIMEN)
+SYNTHETIC SPECIMEN - NOT A VALID DOCUMENT
+Permanent Account Number
+ZZPPS1635D
+Name
+PRIYA SHARMA
+Father's Name
+VIKRAM SHARMA
+ Date of Birth
+24/08/1982
+Signature
+Hackathon synthetic data - fictional person and issuer - for software testing only

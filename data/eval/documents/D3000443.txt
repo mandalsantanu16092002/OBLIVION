@@ -1,0 +1,12 @@
+"
+SAHYADRI POWER DISTRIBUTION LTD (fictional)
+Electricity Bill - Synthetic Specirnen
+SYNTHETIC SPECIMEN - NOT A VALID DOCUMENT
+Consumer No.: EB221637O91
+Consumer Name: Swati Bosc
+Bill Date: 21-Nov-2025
+Billing Period: 30 days
+UnitsConsumed: 214 kWh
+Amount Du e: Rs. 1,842.00
+Supply Address: Housc No. 155, Coral Heights, MG Road, Bhopa1, Madhya Pradesh, P.IN 462061
+Pay before due date to avoid surcharge. This is a computer-generated bill. Hackathon synthetic data - fictional person and issuer - forsoftware testing only

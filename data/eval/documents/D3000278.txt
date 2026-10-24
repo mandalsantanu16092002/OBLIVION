@@ -1,0 +1,12 @@
+ INCOME TAX IDENTITY CARD (SYNTHETIC SPECIMEN)
+SYNTHETIC SPECIMEN - NOT A VALID DOCUMENT
+Permanent Account Number
+ZZSPD8091L
+Name
+SNEHA RANI DAS
+Father's Name
+ROHIT DAS
+Date of Birth
+19/09/1997
+Signature
+Hackathon synthetic data - fictional person and issuer - for software testing only

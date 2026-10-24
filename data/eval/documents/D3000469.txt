@@ -1,0 +1,9 @@
+AADHAAR - RESIDENT IDENTITY (SYNTHETIC SPECIMEN)
+SYNTHETIC SPECIMEN - NOT A VALID DOCUMENT
+Deepak Kumar Banerjee
+DOB:  08/01/1998
+MALE
+Address: Flat 261, Shanti Niwas, Church Road, Bengaluru,
+Karnataka - 560022
+XXXX XXXX 6060
+Hackathon synthetic data - fictional person and issuer - for software testing only

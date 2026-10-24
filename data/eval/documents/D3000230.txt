@@ -1,0 +1,12 @@
+SAHYADRI POWER DISTRIBUTION LTD (fictional)
+Electricity Bill - Synthetic Specimen
+SYNTHETIC SPECIMEN - NOT A VALID DOCUMENT
+Consumer No.: EB581854930
+Consumer Name: Farhan Joshi
+Bill Date: 16-Jan-2026
+Billing Period: 30 days
+Units Consumed: 214 kWh
+Amount Due: Rs. 1,842.00
+Supply Address:  Door No. 193, Palm Grove, Church Road, Lucknow, Uttar Pradesh, PIN 226047
+Pay before due date to avoid surcharge. This is a computer-generated bill.
+Hackathon synthetic data - fictional person and issuer - for software testing only

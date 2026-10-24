@@ -1,0 +1,12 @@
+INCOME TAX IDENTITY CARD (SYNTHETIC SPECIMEN)
+SYNTHETIC SPECIMEN - NOT A VALID DOCUMENT
+Permanent Account Number
+ZZZPS3451W
+Name
+SHALINI DEVI SINGH
+Father's Name
+ROHIT SINGH
+Date of Birth
+17/11/1992
+Signature
+Hackathon synthetic data - fictional person and issuer - for software testing only

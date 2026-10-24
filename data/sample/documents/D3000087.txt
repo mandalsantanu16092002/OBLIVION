@@ -1,0 +1,9 @@
+AADHAAR - RESIDENT IDENTITY (SYNTHETIC SPECIMEN)
+ SYNTHETIC SPECIMEN - NOT A VALID DOCUMENT
+Rohit Lal Gupta
+DOB:  11/07/1986
+ MALE
+Address: House No. 35, Coral Heights, Lake View Road,
+ Bengaluru, Karnataka - 560053
+XXXX XXXX 2319
+Hackathon synthetic data - fictional person and issuer - for software testing only

@@ -1,0 +1,9 @@
+AADHAAR - RESIDENT IDENTITY (SYNTHETIC SPECIMEN)
+ SYNTHETIC SPECIMEN - NOT A VALID DOCUMENT
+Sanjay Kumar Menon
+DOB: 09/07/1969
+MALE
+Address: Flat 342, Sunrise Towers, Lake View Road, Chennai,
+Tamil Nadu - 600079
+ XXXX XXXX 9125
+Hackathon synthetic data - fictional person and issuer - for software testing only

@@ -1,0 +1,9 @@
+AADHAAR - RESIDENT IDENTITY (SYNTHETIC SPECIMEN)
+SYNTHETIC SPECIMEN - NOT A VALID DOCUMENT
+Sneha Rani Das
+DOB: 19/09/1997
+FEMALE
+Address: Door No. 22, Green Park Society, Nehru Marg,
+Bengaluru, Karnataka - 560097
+XXXX XXXX 8473
+Hackathon synthetic data - fictional person and issuer - for software testing only

@@ -1,0 +1,12 @@
+INCOME TAX IDENTITY CARD (SYNTHETIC SPECIMEN)
+SYNTHETIC SPECIMEN - NOT A VALID DOCUMENT
+Permanent Account Number
+ZZBPP3934U
+Name
+VARUN KUMAR PATEL
+Father's Name
+RAVI PATEL
+Date of Birth
+07/10/1981
+Signature
+Hackathon synthetic data - fictional person and issuer - for software testing only

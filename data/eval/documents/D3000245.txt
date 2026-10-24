@@ -1,0 +1,9 @@
+AADHAAR - RESIDENT IDENTITY (SYNTHETIC SPECIMEN)
+SYNTHETIC SPECIMEN - NOT A VALID DOCUMENT
+Manoj Mehta
+DOB: 17/05/1992
+MALE
+Address: Door No. 444, Shanti Niwas, Church Road, Jaipur,
+Rajasthan - 302049
+XXXX XXXX 0037
+Hackathon synthetic data - fictional person and issuer - for software testing only

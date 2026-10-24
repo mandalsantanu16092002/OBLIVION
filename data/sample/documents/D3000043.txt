@@ -1,0 +1,12 @@
+INCOME TAX IDENTITY CARD (SYNTHETIC SPECIMEN)
+SYNTHETIC SPECIMEN - NOT A VALID DOCUMENT
+Permanent Account Number
+ZZKPD2286P
+Name
+SHALINI DAS
+Father's Name
+VARUN DAS
+Date of Birth
+02/05/2000
+Signature
+Hackathon synthetic data - fictional person and issuer - for software testing only

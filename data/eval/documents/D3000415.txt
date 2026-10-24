@@ -1,0 +1,9 @@
+AADHAAR - RESIDENT IDENTITY (SYNTHETIC SPECIMEN)
+SYNTHETIC SPECIMEN - NOT A VALID DOCUMENT
+Ravi Iyer
+DOB: 01/05/1993
+MALE
+Address: Flat 237, Palm Grove, Nehru Marg, Jaipur, Rajasthan -
+302036
+XXXX XXXX 1560
+Hackathon synthetic data - fictional person and issuer - for software testing only

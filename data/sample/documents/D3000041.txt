@@ -1,0 +1,9 @@
+AADHAAR - RESIDENT IDENTITY (SYNTHETIC SPECIMEN)
+SYNTHETIC SPECIMEN - NOT A VALID DOCUMENT
+Ravi Kumar Singh
+DOB:  17/02/2006
+MALE
+Address: Flat 120, Palm Grove, Lake View Road, Hyderabad,
+Telangana - 500048
+XXXX XXXX 8964
+Hackathon synthetic data - fictional person and issuer - for software testing only

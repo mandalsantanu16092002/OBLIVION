@@ -1,0 +1,8 @@
+DRIVING LICENCE - TRANSPORT DEPT (fictional)
+SYNTHETIC SPECIMEN - NOT A VALID DOCUMENT
+DL No. SY-02636452207
+Name: Gurpreet Kumar Shaikh
+DOB: 10/02/1961
+Valid Till: 04/04/2034
+Address: Door No. 324, Green Park Society, Market Lane, Jaipur, Rajasthan PIN 302071
+Hackathon synthetic data - fictional person and issuer - for software testing only

@@ -1,0 +1,9 @@
+AADHAAR - RESIDENT IDENTITY (SYNTHETIC SPECIMEN)
+SYNTHETIC SPECIMEN - NOT A VALID DOCUMENT
+ Varun Kumar Mehta
+DOB: 01/11/1988
+MALE
+Address: Flat 379, Ganga Enclave, Park Street, Bhopal, Madhya
+ Pradesh - 462017
+XXXX XXXX 8009
+Hackathon synthetic data - fictional person and issuer - for software testing only

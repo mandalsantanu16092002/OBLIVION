@@ -1,0 +1,9 @@
+AADHAAR - RESIDENT IDENTITY (SYNTHETIC SPECIMEN)
+SYNTHETIC SPECIMEN - NOT A VALID DOCUMENT
+Anil Chandra Joshi
+DOB: 30/01/1997
+MALE
+Address: Door No. 85, Sai Krupa Apartments, Nehru Marg, Mumbai,
+Maharashtra - 400041
+XXXX XXXX 3668
+Hackathon synthetic data - fictional person and issuer - for software testing only

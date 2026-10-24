@@ -1,0 +1,12 @@
+INCOME TAX IDENTITY CARD (SYNTHETIC SPECIMEN)
+SYNTHETIC SPECIMEN - NOT A VALID DOCUMENT
+Permanent Account Number
+ZZTPR9321C
+Name
+DEEPAK RAO
+Father's Name
+NIKHIL RAO
+Date of Birth
+29/11/1982
+Signature
+Hackathon synthetic data - fictional person and issuer - for software testing only

@@ -1,0 +1,9 @@
+AADHAAR - RESIDENT IDENTITY (SYNTHETIC SPECIMEN)
+SYNTHETIC SPECIMEN - NOT A VALID DOCUMENT
+Shalini Das
+DOB: 02/05/2000
+FEMALE
+Address: House No. 325, Sunrise Towers, Market Lane, Ahmedabad,
+Gujarat - 380001
+XXXX XXXX 3540
+Hackathon synthetic data - fictional person and issuer - for software testing only

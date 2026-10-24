@@ -1,0 +1,12 @@
+INCOME TAX IDENTITY CARD (SYNTHETIC SPECIMEN)
+SYNTHETIC SPECIMEN - NOT A VALID DOCUMENT
+Permanent Account Number
+ZZUPR0254X
+Name
+ KARTHIK RAO
+Father's Name
+FARHAN REDDY
+Date of Birth
+21/03/1998
+Signature
+Hackathon synthetic data - fictional person and issuer - for software testing only

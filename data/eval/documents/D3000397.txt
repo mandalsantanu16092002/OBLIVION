@@ -1,0 +1,9 @@
+AADHAAR - RESIDENT IDENTITY (SYNTHETIC SPECIMEN)
+SYNTHETIC SPECIMEN - NOT A VALID DOCUMENT
+Deepak Lal Verma
+DOB: 18/07/1973
+MALE
+Address: Flat 326, Ganga Enclave, Temple Street, Mumbai,
+ Maharashtra - 400028
+XXXX XXXX 5450
+Hackathon synthetic data - fictional person and issuer - for software testing only

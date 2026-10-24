@@ -1,0 +1,12 @@
+SAHYADRI POWER DISTRIBUTION LTD (fictional)
+Electricity Bill - Synthetic Specimen
+SYNTHETIC SPECIMEN - NOT A VALID DOCUMENT
+Consumer No.: EB924273815
+Consumer Name: Anil Nair
+Bill Date: 10-Jan-2026
+Billing Period: 30 days
+Units Consumed: 214 kWh
+Amount Due: Rs. 1,842.00
+Supply Address: Door No. 369, Sunrise Towers, Station Road, Delhi, Delhi, PIN 110080
+Pay before due date to avoid surcharge. This is a computer-generated bill.
+ Hackathon synthetic data - fictional person and issuer - for software testing only

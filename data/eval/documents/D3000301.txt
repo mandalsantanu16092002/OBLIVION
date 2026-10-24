@@ -1,0 +1,8 @@
+ DRIVING LICENCE - TRANSPORT DEPT (fictional)
+SYNTHETIC SPECIMEN - NOT A VALID DOCUMENT
+ DL No. SY-00700914534
+Name: Tanvi Rao
+ DOB: 14/08/2009
+Valid Till: 17/12/2030
+Address: Door No. 245, Sunrise Towers, Station Road, Ahmedabad, Gujarat PIN 380023
+Hackathon synthetic data - fictional person and issuer - for software testing only

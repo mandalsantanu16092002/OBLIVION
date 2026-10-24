@@ -1,0 +1,9 @@
+AADHAAR - RESIDENT IDENTITY (SYNTHETIC SPECIMEN)
+SYNTHETIC SPECIMEN - NOT A VALID DOCUMENT
+Vikram Kumar Gupta
+DOB:  27/06/2001
+MALE
+ Address: Flat 238, Coral Heights, Lake View Road, Ahmedabad,
+Gujarat - 380034
+XXXX XXXX 8924
+Hackathon synthetic data - fictional person and issuer - for software testing only

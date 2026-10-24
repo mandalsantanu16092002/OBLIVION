@@ -1,0 +1,8 @@
+DRIVING LICENCE - TRANSPORT DEPT (fictional)
+SYNTHETIC SPECIMEN - NOT A VALID DOCUMENT
+DL No. SY-03779323587
+Name: Ravi Kumar Singh
+DOB: 17/02/2006
+Valid Till: 12/12/2033
+Address: Flat 120, Palm Grove, Lake View Road, Hyderabad, Telangana PIN 500048
+Hackathon synthetic data - fictional person and issuer - for software testing only

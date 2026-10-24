@@ -1,0 +1,8 @@
+DRIVING LICENCE - TRANSPORT DEPT (fictional)
+SYNTHETIC SPECIMEN - NOT A VALID DOCUMENT
+DL No. SY-00899651575
+Name: Kavya Devi Joshi
+DOB: 22/08/1996
+Valid Till: 06/10/2025
+Address: Door No. 258, Coral Heights, Lake View Road, Mumbai, Maharashtra PIN 400075
+Hackathon synthetic data - fictional person and issuer - for software testing only

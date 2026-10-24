@@ -1,0 +1,8 @@
+DRIVING LICENCE - TRANSPORT DEPT (fictional)
+SYNTHETIC SPECIMEN - NOT A VALID DOCUMENT
+ DL No. SY-00051896844
+Name: Varun Kumar Patel
+DOB: 07/10/1981
+Valid Till:  21/04/2031
+Address: House No. 384, Shanti Niwas, Temple Street, Mumbai, Maharashtra PIN 400097
+Hackathon synthetic data - fictional person and issuer - for software testing only

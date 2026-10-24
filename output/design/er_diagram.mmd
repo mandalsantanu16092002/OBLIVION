@@ -1,0 +1,137 @@
+erDiagram
+    users ||--o{ applications : "applies (APPLICANT)"
+    users ||--o{ case_actions : "maker / checker"
+    users ||--o{ field_corrections : "corrects"
+    occupations ||--o{ applications : "risk level"
+    applications ||--o{ documents : has
+    documents ||--o{ extractions : "extracted by provider"
+    documents ||--o{ field_corrections : "corrected field"
+    applications ||--o{ decisions : "rules evaluations"
+    applications ||--o{ case_actions : "recommendations / checker decisions"
+    applications ||--o| core_banking_accounts : "account opened"
+    applications ||--o{ notifications : "applicant messages (log)"
+    applications ||--o{ audit_log : "append-only history"
+    rules_config ||--o{ decisions : "config version"
+    users {
+      int id PK
+      text email UK
+      text password_hash
+      text[] roles "APPLICANT, KYC_OFFICER, COMPLIANCE_OFFICER"
+    }
+    applications {
+      text application_id PK
+      int applicant_user_id FK
+      date application_date
+      text full_name
+      date dob
+      text pan_number "unique while in flight"
+      char aadhaar_last4 "last 4 only"
+      text pincode
+      text occupation_code FK
+      bigint annual_income
+      text status
+      text decision
+      text[] reason_codes
+      float name_match_score
+      text risk_category
+      date rekyc_due_date
+      jsonb engine_result
+      int maker_user_id FK
+      int checker_user_id FK "must differ from maker"
+      text customer_id
+      int version "optimistic lock"
+    }
+    documents {
+      text doc_id PK
+      text application_id FK
+      text declared_doc_type
+      char sha256 "unique per application"
+      uuid file_key "non-guessable storage key"
+      text source_ref
+      bool active
+    }
+    extractions {
+      int id PK
+      text doc_id FK
+      text provider "mock | ai"
+      text status "OK UNKNOWN FAILED TIMEOUT"
+      text doc_type
+      numeric doc_type_confidence
+      jsonb fields "value, confidence, span"
+      text extractor_version
+      bool is_current
+    }
+    field_corrections {
+      int id PK
+      text doc_id FK
+      text field_name
+      text old_value
+      numeric old_confidence
+      text new_value
+      text reason
+      int officer_id FK
+    }
+    decisions {
+      int id PK
+      text application_id FK
+      text trigger
+      text decision
+      text[] reason_codes
+      jsonb engine_result
+      text config_version
+    }
+    case_actions {
+      int id PK
+      text application_id FK
+      int actor_id FK
+      text action
+      text value
+      text comment
+    }
+    audit_log {
+      bigint id PK
+      text application_id
+      text event_type
+      int actor_id
+      text actor_role
+      text doc_id
+      jsonb details
+      timestamptz created_at
+    }
+    rules_config {
+      int id PK
+      text version
+      jsonb config
+    }
+    watchlist_entries {
+      int id PK
+      text list_type "SANCTIONS | PEP"
+      text entry_id
+      text name
+      text alias
+      date dob
+    }
+    existing_customers {
+      text customer_id PK
+      text pan_number UK
+    }
+    extraction_mock {
+      text doc_id PK
+      text field_name PK
+      text value
+      numeric confidence
+    }
+    core_banking_accounts {
+      text customer_id PK
+      text account_number UK
+      text application_id UK
+    }
+    occupations {
+      text occupation_code PK
+      text risk_level
+    }
+    case_actions }o--|| users : by
+    notifications {
+      int id PK
+      text message
+    }

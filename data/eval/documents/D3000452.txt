@@ -1,0 +1,8 @@
+DRIVING LICENCE - TRANSPORT DEPT (fictional)
+SYNTHETIC SPECIMEN - NOT A VALID DOCUMENT
+ DL No. SY-03010479574
+Name: Gurpreet Patel
+DOB: 13/05/1990
+Valid Till: 27/06/2028
+Address: Flat 305, Ganga Enclave, Station Road, Kochi, Kerala PIN 682007
+Hackathon synthetic data - fictional person and issuer - for software testing only

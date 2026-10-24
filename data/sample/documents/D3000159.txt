@@ -1,0 +1,14 @@
+INCOME TAX IDENTITY CARD (SYNTHETIC SPECIMEN)
+"
+SYNTHETIC SPEC.IMEN -NOT A VAL1D DOCUMENT
+Pcrmanent AccountNumber
+|
+ZZSPG7893F
+Name
+RAVIPRASAD GUPTA
+Father's Name . .
+ROHIT GUPTA
+Dote of Birth
+14/12/1959
+Signature
+Hackathon synthetic dat a -fictional person and issuer - for software testing only

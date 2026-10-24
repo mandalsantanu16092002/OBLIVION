@@ -1,0 +1,12 @@
+ INCOME TAX IDENTITY CARD (SYNTHETIC SPECIMEN)
+SYNTHETIC SPECIMEN - NOT A VALID DOCUMENT
+Permanent Account Number
+ZZRPM0305T
+Name
+VARUN KUMAR MEHTA
+Father's Name
+SURESH MEHTA
+Date of Birth
+01/11/1988
+Signature
+Hackathon synthetic data - fictional person and issuer - for software testing only

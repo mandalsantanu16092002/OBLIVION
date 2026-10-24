@@ -1,0 +1,12 @@
+INCOME TAX IDENTITY CARD (SYNTHETIC SPECIMEN)
+SYNTHETIC SPECIMEN - NOT A VALID DOCUMENT
+Permanent Account Number
+ZZJPI8057J
+Name
+SWATI IYER
+Father's Name
+KARTHIK IYER
+Date of Birth
+04/05/1989
+Signature
+Hackathon synthetic data - fictional person and issuer - for software testing only

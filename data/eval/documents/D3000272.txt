@@ -1,0 +1,12 @@
+INCOME TAX IDENTITY CARD (SYNTHETIC SPECIMEN)
+SYNTHETIC SPECIMEN - NOT A VALID DOCUMENT
+Permanent Account Number
+ZZPPF0221N
+Name
+PRIYA FERNANDES
+Father's Name
+FARHAN FERNANDES
+Date of Birth
+02/03/1986
+Signature
+Hackathon synthetic data - fictional person and issuer - for software testing only

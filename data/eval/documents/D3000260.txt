@@ -1,0 +1,9 @@
+AADHAAR - RESIDENT IDENTITY (SYNTHETIC SPECIMEN)
+SYNTHETIC SPECIMEN - NOT A VALID DOCUMENT
+Neha Banerjee
+DOB: 11/01/1992
+FEMALE
+Address: Flat 172, Ganga Enclave, Temple Street, Bengaluru,
+Karnataka - 560099
+ XXXX XXXX 9769
+Hackathon synthetic data - fictional person and issuer - for software testing only

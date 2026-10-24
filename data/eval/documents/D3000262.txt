@@ -1,0 +1,12 @@
+INCOME TAX IDENTITY CARD (SYNTHETIC SPECIMEN)
+SYNTHETIC SPECIMEN - NOT A VALID DOCUMENT
+Permanent Account Number
+ZZNPR1188T
+ Name
+ANANYA RAO
+Father's Name
+IMRAN RAO
+ Date of Birth
+02/05/1983
+Signature
+Hackathon synthetic data - fictional person and issuer - for software testing only

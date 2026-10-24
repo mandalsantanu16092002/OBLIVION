@@ -1,0 +1,8 @@
+DRIVING LICENCE - TRANSPORT DEPT (fictional)
+SYNTHETIC SPECIMEN - NOT A VALID DOCUMENT
+DL No. SY-00599006377
+Name: Manoj Prasad Singh
+DOB: 25/01/1999
+Valid Till: 10/09/2032
+Address: Flat 157, Shanti Niwas, MG Road, Bengaluru, Karnataka PIN 560018
+Hackathon synthetic data - fictional person and issuer - for software testing only

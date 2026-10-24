@@ -1,0 +1,12 @@
+INCOME TAX IDENTITY CARD (SYNTHETIC SPECIMEN)
+SYNTHETIC SPECIMEN - NOT A VALID DOCUMENT
+ Permanent Account Number
+ZZEPS4076T
+ Name
+ARJUN NATH SHARMA
+Father's Name
+KARTHIK SHARMA
+Date of Birth
+16/09/2008
+Signature
+Hackathon synthetic data - fictional person and issuer - for software testing only

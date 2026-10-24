@@ -1,0 +1,12 @@
+INCOME TAX IDENTITY CARD (SYNTHETIC SPECIMEN)
+SYNTHETIC SPECIMEN - NOT A VALID DOCUMENT
+Permanent Account Number
+ZZDPK6428X
+Name
+GURPREET KHAN
+Father's Name
+VARUN KHAN
+Date of Birth
+10/04/1970
+Signature
+Hackathon synthetic data - fictional person and issuer - for software testing only

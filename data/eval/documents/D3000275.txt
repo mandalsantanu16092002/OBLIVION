@@ -1,0 +1,12 @@
+INCOME TAX IDENTITY CARD (SYNTHETIC SPECIMEN)
+SYNTHETIC SPECIMEN - NOT A VALID DOCUMENT
+Permanent Account Number
+ZZXPF9720C
+Name
+SURESH FERNANDES
+Father's Name
+ARJUN FERNANDES
+Date of Birth
+26/10/1992
+Signature
+Hackathon synthetic data - fictional person and issuer - for software testing only

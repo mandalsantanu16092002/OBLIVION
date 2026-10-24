@@ -1,0 +1,8 @@
+DRIVING LICENCE - TRANSPORT DEPT (fictional)
+SYNTHETIC SPECIMEN - NOT A VALID DOCUMENT
+DL No. SY-01324523589
+Name: Odalys Vantorek
+DOB: 17/07/1985
+Valid Till: 12/02/2033
+ Address: Door No. 251, Palm Grove, Hill Road, Mumbai, Maharashtra PIN 400075
+Hackathon synthetic data - fictional person and issuer - for software testing only

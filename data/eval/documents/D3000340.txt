@@ -1,0 +1,8 @@
+DRIVING LICENCE - TRANSPORT DEPT (fictional)
+SYNTHETIC SPECIMEN - NOT A VALID DOCUMENT
+DL No. SY-00000262178
+Name: Divya Rani Singh
+DOB: 19/02/1965
+Valid Till: 02/06/2032
+Address: Flat 350, Sunrise Towers, Market Lane, Lucknow, Uttar Pradesh PIN 226097
+Hackathon synthetic data - fictional person and issuer - for software testing only

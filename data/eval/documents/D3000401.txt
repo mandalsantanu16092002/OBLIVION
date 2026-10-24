@@ -1,0 +1,11 @@
+SAHYADRI P0WER DISTRI8UTION LTD (fiction al)
+Electricity Bill - Synthctic Spccimen
+SYNTHETIC SPECIMEN - NOT A VALID DOCUMENT
+Consumer No.: E.B838556735
+Consumer Namc: Gurpreet Khan
+Bill D ate: 16-Jan-2026
+Billing Period: 3O days Units Consumed: 214 kWh
+Amount Due: Rs. 1,842.00
+Supply Address: Flat 299, Green Park Society, Church Road, Jaipur, Rajasthan, PIN 302035
+Pay before due date to avoid surcharge. This is a computer-gcnerated bill.
+Hackathon s ynthetic data - fictional person and issuer - for software testing only

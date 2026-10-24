@@ -1,0 +1,9 @@
+AADHAAR - RESIDENT IDENTITY (SYNTHETIC SPECIMEN)
+SYNTHETIC SPECIMEN - NOT A VALID DOCUMENT
+Manoj Menon
+DOB: 30/10/1985
+MALE
+Address: Flat 433, Shanti Niwas, Park Street, Mumbai,
+Maharashtra - 400074
+ XXXX XXXX 8006
+Hackathon synthetic data - fictional person and issuer - for software testing only

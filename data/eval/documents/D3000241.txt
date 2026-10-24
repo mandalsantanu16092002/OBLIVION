@@ -1,0 +1,12 @@
+INCOME TAX IDENTITY CARD (SYNTHETIC SPECIMEN)
+SYNTHETIC SPECIMEN - NOT A VALID DOCUMENT
+Permanent Account Number
+ZZZPB2716Z
+Name
+FATIMA BANERJEE
+Father's Name
+IMRAN BANERJEE
+Date of Birth
+20/03/2002
+Signature
+Hackathon synthetic data - fictional person and issuer - for software testing only

@@ -1,0 +1,9 @@
+AADHAAR - RESIDENT IDENTITY (SYNTHETIC SPECIMEN)
+SYNTHETIC SPECIMEN - NOT A VALID DOCUMENT
+ Gurpreet Chandra Joshi
+DOB: 19/03/2004
+MALE
+Address: Flat 136, Shanti Niwas, Temple Street, Kolkata, West
+Bengal - 700067
+XXXX XXXX 1574
+Hackathon synthetic data - fictional person and issuer - for software testing only

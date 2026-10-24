@@ -1,0 +1,12 @@
+INCOME TAX IDENTITY CARD (SYNTHETIC SPECIMEN)
+SYNTHETIC SPECIMEN - NOT A VALID DOCUMENT
+Permanent Account Number
+ZZUPB5902B
+Name
+PRIYA CHANDRA BOSE
+Father's Name
+RAHUL BOSE
+Date of Birth
+26/04/1980
+Signature
+Hackathon synthetic data - fictional person and issuer - for software testing only

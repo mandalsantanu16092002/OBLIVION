@@ -1,0 +1,12 @@
+INCOME TAX IDENTITY CARD (SYNTHETIC SPECIMEN)
+SYNTHETIC SPECIMEN - NOT A VALID DOCUMENT
+Permanent Account Number
+ZZMPK5540R
+Name
+RAHUL KUMAR KULKARNI
+Father's Name
+ ROHIT KULKARNI
+Date of Birth
+09/11/2009
+Signature
+Hackathon synthetic data - fictional person and issuer - for software testing only

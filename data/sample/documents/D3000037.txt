@@ -1,0 +1,11 @@
+INC0ME TAX IDENTITY CARD (SYNTHETIC SPECIMEN)
+SYNTHETIC SPECIMEN - NOT A VALID D0CUMENT
+Permanent Account Number
+ZZJPN2449M Name
+SWATI NAIR
+Father's Name
+VIKRAM NAIR
+Date of Birth
+08/12/1957
+Signature
+Hackathon synthetic data - fictio.nal personandi,ss,ucr - for software testing only

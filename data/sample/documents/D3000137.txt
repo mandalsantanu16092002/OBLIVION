@@ -1,0 +1,8 @@
+DRIVING LICENCE - TRANSPORT DEPT (fictional)
+SYNTHETIC SPECIMEN - NOT A VALID DOCUMENT
+DL No. SY-00423928203
+Name: Shalini Devi Singh
+DOB: 17/11/1992
+Valid Till: 21/02/2032
+Address: House No. 364, Sai Krupa Apartments, Church Road, Delhi, Delhi PIN 110093
+Hackathon synthetic data - fictional person and issuer - for software testing only

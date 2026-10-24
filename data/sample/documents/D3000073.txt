@@ -1,0 +1,8 @@
+DRIVING LICENCE - TRANSPORT DEPT (fictional)
+SYNTHETIC SPECIMEN - NOT A VALID DOCUMENT
+DL No. SY-00917695321
+Name: Anil Patel
+DOB: 23/02/1997
+ Valid Till: 18/12/2030
+Address: House No. 200, Sunrise Towers, Lake View Road, Hyderabad, Telangana PIN 500075
+Hackathon synthetic data - fictional person and issuer - for software testing only

@@ -1,0 +1,8 @@
+DRIVING LICENCE - TRANSPORT DEPT (fictional)
+SYNTHETIC SPECIMEN - NOT A VALID DOCUMENT
+DL No. SY-03482173281
+Name: Karthik Kumar Iyer
+DOB: 30/11/2000
+Valid Till: 03/06/2036
+Address: Door No. 335, Sai Krupa Apartments, Park Street, Chennai, Tamil Nadu PIN 600032
+Hackathon synthetic data - fictional person and issuer - for software testing only

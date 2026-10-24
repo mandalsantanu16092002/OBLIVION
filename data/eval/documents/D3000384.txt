@@ -1,0 +1,12 @@
+INCOME TAX IDENTITY CARD (SYNTHETIC SPECIMEN)
+SYNTHETIC SPECIMEN - NOT A VALID DOCUMENT
+Permanent Account Number
+ZZHPK1977Z
+Name
+MANOJ KUMAR KHAN
+Father's Name
+ADITYA KHAN
+Date of Birth
+25/04/1990
+Signature
+Hackathon synthetic data - fictional person and issuer - for software testing only

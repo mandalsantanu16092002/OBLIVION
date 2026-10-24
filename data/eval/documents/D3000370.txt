@@ -1,0 +1,8 @@
+DRIVING LICENCE - TRANSPORT DEPT (fictional)
+SYNTHETIC SPECIMEN - NOT A VALID DOCUMENT
+DL No. SY-02013897613
+Name:  Arjun Nair
+ DOB: 01/08/1976
+Valid Till: 02/04/2027
+Address: House No. 40, Coral Heights, Hill Road, Delhi, Delhi PIN 110040
+Hackathon synthetic data - fictional person and issuer - for software testing only

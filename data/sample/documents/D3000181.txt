@@ -1,0 +1,9 @@
+AADHAAR - RESIDENT IDENTITY (SYNTHETIC SPECIMEN)
+SYNTHETIC SPECIMEN - NOT A VALID DOCUMENT
+Divya Patel
+DOB: 28/11/1963
+FEMALE
+Address: Door No. 132, Sai Krupa Apartments, Park Street,
+Delhi, Delhi - 110057
+XXXX XXXX 7746
+Hackathon synthetic data - fictional person and issuer - for software testing only

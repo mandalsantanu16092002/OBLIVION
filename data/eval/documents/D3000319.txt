@@ -1,0 +1,8 @@
+DRIVING LICENCE - TRANSPORT DEPT (fictional)
+SYNTHETIC SPECIMEN - NOT A VALID DOCUMENT
+DL No. SY-03565819184
+Name:  Swati Iyer
+DOB:  04/05/1989
+Valid Till:  04/12/2033
+Address: Door No. 125, Lotus Residency, Station Road, Jaipur, Rajasthan PIN 302040
+Hackathon synthetic data - fictional person and issuer - for software testing only

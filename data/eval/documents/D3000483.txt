@@ -1,0 +1,12 @@
+INCOME TAX IDENTITY CARD (SYNTHETIC SPECIMEN)
+SYNTHETIC SPECIMEN - NOT A VALID DOCUMENT
+Permanent Account Number
+ZZLPD3538P
+Name
+IMRAN MOHAN DAS
+Father's Name
+VARUN DAS
+Date of Birth
+18/04/1984
+Signature
+Hackathon synthetic data - fictional person and issuer - for software testing only

@@ -1,0 +1,9 @@
+AADHAAR - RESIDENT IDENTITY (SYNTHETIC SPECIMEN)
+SYNTHETIC SPECIMEN - NOT A VALID DOCUMENT
+Fatima Kulkarni
+DOB:  15/09/1992
+FEMALE
+Address:  House No. 380, Shanti Niwas, Gandhi Nagar, Kochi,
+Kerala - 682064
+XXXX XXXX 8955
+Hackathon synthetic data - fictional person and issuer - for software testing only

@@ -1,0 +1,12 @@
+INCOME TAX IDENTITY CARD (SYNTHETIC SPECIMEN)
+SYNTHETIC SPECIMEN - NOT A VALID DOCUMENT
+Permanent Account Number
+ZZVPR1010X
+Name
+SNEHA CHANDRA RAO
+Father's Name
+MANOJ RAO
+Date of Birth
+22/10/1984
+Signature
+Hackathon synthetic data - fictional person and issuer - for software testing only

@@ -1,0 +1,9 @@
+AADHAAR - RESIDENT IDENTITY (SYNTHETIC SPECIMEN)
+SYNTHETIC SPECIMEN - NOT A VALID DOCUMENT
+Meera Joshi
+DOB: 07/07/1988
+FEMALE
+Address: Flat 12, Lotus Residency, MG Road, Mumbai, Maharashtra
+- 400001
+XXXX XXXX 6612
+Hackathon synthetic data - fictional person and issuer - for software testing only

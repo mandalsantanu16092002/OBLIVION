@@ -1,0 +1,7 @@
+{
+  "typescript.tsdk": "node_modules/typescript/lib",
+  "python.defaultInterpreterPath": "apps/ai-service/.venv/bin/python",
+  "python.testing.pytestEnabled": true,
+  "python.testing.cwd": "apps/ai-service",
+  "files.exclude": { "**/.turbo": true, "storage": true }
+}

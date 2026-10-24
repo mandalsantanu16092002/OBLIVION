@@ -1,0 +1,10 @@
+**/node_modules
+**/dist
+**/.turbo
+**/__pycache__
+**/.pytest_cache
+**/.venv
+storage
+.git
+.env
+output/*.png

@@ -1,0 +1,8 @@
+DRIVING LICENCE - TRANSPORT DEPT (fictional)
+SYNTHETIC SPECIMEN - NOT A VALID DOCUMENT
+DL No. SY-02172175843
+Name: Meera Singh
+DOB: 03/11/1991
+Valid Till: 12/09/2032
+Address: Door No. 441, Lotus Residency, Market Lane, Bhopal, Madhya Pradesh PIN 462005
+Hackathon synthetic data - fictional person and issuer - for software testing only

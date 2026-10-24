@@ -1,0 +1,12 @@
+INCOME TAX IDENTITY CARD (SYNTHETIC SPECIMEN)
+SYNTHETIC SPECIMEN - NOT A VALID DOCUMENT
+Permanent Account Number
+ZZMPB9287M
+Name
+FARHAN NATH BOSE
+Father's Name
+GURPREET BOSE
+Date of Birth
+01/07/1999
+Signature
+Hackathon synthetic data - fictional person and issuer - for software testing only

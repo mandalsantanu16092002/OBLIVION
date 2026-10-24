@@ -1,0 +1,8 @@
+DRIVING LICENCE - TRANSPORT DEPT (fictional)
+SYNTHETIC SPECIMEN - NOT A VALID DOCUMENT
+DL No. SY-01898584199
+Name: Rahul Lal Sharma
+DOB: 20/08/1991
+Valid Till: 10/06/2035
+Address: House No. 270, Shanti Niwas, Market Lane, Hyderabad, Telangana PIN 500008
+Hackathon synthetic data - fictional person and issuer - for software testing only

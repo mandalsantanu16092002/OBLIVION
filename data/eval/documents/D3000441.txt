@@ -1,0 +1,12 @@
+INCOME TAX IDENTITY CARD (SYNTHETIC SPECIMEN)
+SYNTHETIC SPECIMEN - NOT A VALID DOCUMENT
+Permanent Account Number
+ ZZVPB0298D
+Name
+SWATI BOSE
+Father's Name
+VIKRAM BOSE
+Date of Birth
+27/08/1987
+Signature
+Hackathon synthetic data - fictional person and issuer - for software testing only

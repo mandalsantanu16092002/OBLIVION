@@ -1,0 +1,9 @@
+AADHAAR - RESIDENT IDENTITY (SYNTHETIC SPECIMEN)
+SYNTHETIC SPECIMEN - NOT A VALID DOCUMENT
+Aditya Khan
+DOB: 09/06/1981
+MALE
+Address: Door No. 125, Sai Krupa Apartments, Market Lane,
+Kochi, Kerala - 682016
+XXXX XXXX 2550
+Hackathon synthetic data - fictional person and issuer - for software testing only

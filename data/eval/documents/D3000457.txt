@@ -1,0 +1,9 @@
+AADHAAR - RESIDENT IDENTITY (SYNTHETIC SPECIMEN)
+SYNTHETIC SPECIMEN - NOT A VALID DOCUMENT
+Rahul Chandra Kulkarni
+DOB: 31/01/2007
+MALE
+Address: House No. 255, Sai Krupa Apartments, Park Street,
+ Jaipur, Rajasthan - 302027
+XXXX XXXX 7539
+Hackathon synthetic data - fictional person and issuer - for software testing only

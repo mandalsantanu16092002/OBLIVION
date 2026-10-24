@@ -1,0 +1,12 @@
+INCOME TAX IDENTITY CARD (SYNTHETIC SPECIMEN)
+SYNTHETIC SPECIMEN - NOT A VALID DOCUMENT
+Permanent Account Number
+ZZMPM4246C
+Name
+MANOJ MEHTA
+Father's Name
+SANJAY MEHTA
+Date of Birth
+17/05/1992
+Signature
+Hackathon synthetic data - fictional person and issuer - for software testing only

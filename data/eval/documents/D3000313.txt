@@ -1,0 +1,8 @@
+DRIVING LICENCE - TRANSPORT DEPT (fictional)
+SYNTHETIC SPECIMEN - NOT A VALID DOCUMENT
+DL No. SY-01391002678
+Name: Lakshmi Singh
+DOB: 19/01/2004
+Valid Till:  30/11/2029
+Address: House No. 69, Coral Heights, MG Road, Delhi, Delhi PIN 110061
+Hackathon synthetic data - fictional person and issuer - for software testing only

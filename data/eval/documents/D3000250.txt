@@ -1,0 +1,12 @@
+INCOME TAX IDENTITY CARD (SYNTHETIC SPECIMEN)
+SYNTHETIC SPECIMEN - NOT A VALID DOCUMENT
+Permanent Account Number
+ZZMPK0486O
+Name
+ADITYA KHAN
+Father's Name
+ANIL KHAN
+Date of Birth
+09/06/1981
+Signature
+Hackathon synthetic data - fictional person and issuer - for software testing only

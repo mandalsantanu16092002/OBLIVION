@@ -1,0 +1,9 @@
+AADHAAR - RESIDENT IDENTITY (SYNTHETIC SPECIMEN)
+SYNTHETIC SPECIMEN - NOT A VALID DOCUMENT
+Rohit Shaikh
+DOB: 09/12/1963
+MALE
+Address: Door No. 79, Coral Heights, Park Street, Bengaluru,
+ Karnataka - 560033
+ XXXX XXXX 6524
+ Hackathon synthetic data - fictional person and issuer - for software testing only

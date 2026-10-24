@@ -1,0 +1,12 @@
+INCOME TAX IDENTITY CARD (SYNTHETIC SPECIMEN)
+SYNTHETIC SPECIMEN - NOT A VALID DOCUMENT
+Permanent Account Number
+ZZLPK9770W
+Name
+RAHUL CHANDRA KULKARNI
+Father's Name
+ANIL KULKARNI
+Date of Birth
+31/01/2007
+Signature
+Hackathon synthetic data - fictional person and issuer - for software testing only

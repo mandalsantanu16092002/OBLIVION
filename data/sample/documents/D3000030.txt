@@ -1,0 +1,8 @@
+ DRIVING LICENCE - TRANSPORT DEPT (fictional)
+SYNTHETIC SPECIMEN - NOT A VALID DOCUMENT
+ DL No. SY-01031907716
+Name: Fatima Khan
+DOB: 25/04/1979
+Valid Till: 29/08/2035
+Address: Flat 12, Lotus Residency, MG Road, Mumbai, Maharashtra PIN 400001
+Hackathon synthetic data - fictional person and issuer - for software testing only

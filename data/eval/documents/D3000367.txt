@@ -1,0 +1,8 @@
+DRIVING LICENCE - TRANSPORT DEPT (fictional)
+SYNTHETIC SPECIMEN - NOT A VALID DOCUMENT
+DL No. SY-01795339849
+Name: Sanjay Kumar Menon
+DOB: 09/07/1969
+Valid Till: 14/06/2028
+Address: Flat 342, Sunrise Towers, Lake View Road, Chennai, Tamil Nadu PIN 600079
+Hackathon synthetic data - fictional person and issuer - for software testing only

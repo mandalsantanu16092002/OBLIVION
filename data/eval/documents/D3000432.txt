@@ -1,0 +1,12 @@
+INCOME TAX IDENTITY CARD (SYNTHETIC SPECIMEN)
+SYNTHETIC SPECIMEN - NOT A VALID DOCUMENT
+Permanent Account Number
+ZZDPI1094I
+Name
+KARTHIK KUMAR IYER
+Father's Name
+JOSEPH IYER
+Date of Birth
+30/11/2000
+Signature
+Hackathon synthetic data - fictional person and issuer - for software testing only

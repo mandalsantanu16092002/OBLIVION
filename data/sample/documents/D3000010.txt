@@ -1,0 +1,12 @@
+INCOME TAX IDENTITY CARD (SYNTHETIC SPECIMEN)
+SYNTHETIC SPECIMEN - NOT A VALID DOCUMENT
+Permanent Account Number
+ ZZNPS4567T
+Name
+RAVI K SHARMA
+Father's Name
+MOHAN SHARMA
+Date of Birth
+20/01/1992
+ Signature
+ Hackathon synthetic data - fictional person and issuer - for software testing only

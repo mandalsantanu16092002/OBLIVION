@@ -1,0 +1,12 @@
+INCOME TAX IDENTITY CARD (SYNTHETIC SPECIMEN)
+SYNTHETIC SPECIMEN - NOT A VALID DOCUMENT
+Permanent Account Number
+ZZYPJ1276U
+ Name
+REKHA JOSHI
+Father's Name
+NIKHIL JOSHI
+ Date of Birth
+26/06/1983
+Signature
+Hackathon synthetic data - fictional person and issuer - for software testing only

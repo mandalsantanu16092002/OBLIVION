@@ -1,0 +1,9 @@
+AADHAAR - RESIDENT IDENTITY (SYNTHETIC SPECIMEN)
+SYNTHETIC SPECIMEN - NOT A VALID DOCUMENT
+Tanvi Das
+DOB: 31/01/1990
+FEMALE
+Address: Flat 117, Lotus Residency, Station Road, Jaipur,
+Rajasthan - 302034
+ XXXX XXXX 5774
+Hackathon synthetic data - fictional person and issuer - for software testing only
